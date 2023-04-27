@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjt.a CMakeFiles/jt.dir/thread1.c.o CMakeFiles/jt.dir/thread2.c.o
+/usr/bin/ranlib libjt.a

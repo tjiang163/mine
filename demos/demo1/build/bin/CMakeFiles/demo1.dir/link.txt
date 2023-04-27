@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/demo1.dir/jt.c.o -o demo1   -Llib  -Wl,-rpath,lib -lpthread thrd/libjt.a -lpthread 

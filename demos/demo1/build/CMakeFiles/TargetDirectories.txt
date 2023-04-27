@@ -1,0 +1,8 @@
+/usr/local/jt/src/SRC/demo1/build/CMakeFiles/rebuild_cache.dir
+/usr/local/jt/src/SRC/demo1/build/CMakeFiles/edit_cache.dir
+/usr/local/jt/src/SRC/demo1/build/bin/CMakeFiles/rebuild_cache.dir
+/usr/local/jt/src/SRC/demo1/build/bin/CMakeFiles/demo1.dir
+/usr/local/jt/src/SRC/demo1/build/bin/CMakeFiles/edit_cache.dir
+/usr/local/jt/src/SRC/demo1/build/bin/thrd/CMakeFiles/rebuild_cache.dir
+/usr/local/jt/src/SRC/demo1/build/bin/thrd/CMakeFiles/jt.dir
+/usr/local/jt/src/SRC/demo1/build/bin/thrd/CMakeFiles/edit_cache.dir
